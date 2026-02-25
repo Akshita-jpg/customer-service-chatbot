@@ -53,6 +53,9 @@ customer-service-chatbot/
 You: What is your return policy?  
 Chatbot: Our return policy allows returns within 30 days...
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
 You: My order is delayed  
 Chatbot: I apologize for the inconvenience...
 
